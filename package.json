@@ -35,6 +35,7 @@
   "dependencies": {
     "color": "3.1.0",
     "core-js": "2.6.0",
+    "debug": "^4.1.0",
     "elem-dataset": "1.1.1",
     "katex": "0.10.0",
     "lodash": "^4.17.11",
